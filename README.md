@@ -4,7 +4,7 @@
 
 Dataset Source: https://github.com/bytedance/GiantMIDI-Piano
 
-
+Our final results are in the file "Final". Other zip files are what we learned at the beginning of the project. Feel free to check them if your are interested.
 
 # Acknowledgement
 
