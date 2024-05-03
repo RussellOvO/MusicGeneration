@@ -40,7 +40,8 @@ It is also acceptable if the user wants to train the model locally using "model_
 ## Final Result
 Parameters in our experiment are batchsize=128, seq_lenghth=100 and epochs=250. Adam is used for training with learning_rate=0.0001 and beta=0.5.
 After training, the loss diagram is
-![loss](Dloss_Gloss.png){:height="50%" width="50%"}
+![loss](Dloss_Gloss.png)
 
 Applying the evaluation for both our results and the results of other pure RNNs methods, we get the followings
 ![res](comparison.png){:height="50%" width="50%"}
+<img src="comparison.png" width="200" height="200">
