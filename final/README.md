@@ -45,7 +45,6 @@ Two demos, "piano.wav" and "mixed.wav", are offered. The first one is an audio o
 
 ## Index
 - [Project Overview](#project-overview)
-- [Implementation Plan](#Steps1)
 - [Project Structure](#project-structure)
 - [Resources](#resources)
 - [Taining Instructions](#how-to-train-the-models)
@@ -54,5 +53,6 @@ Two demos, "piano.wav" and "mixed.wav", are offered. The first one is an audio o
 - [Appendix](#appendix-a)
 
 ## Project Overview
-In recent years, environmental management problems has received increasing attention from the public. One of the key problems people are trying to solve is the ability to efficiently identify
-different types of waste materials during the waste recycling process. Automatic waste detection becomes a necessity when tons of waste materials have to be processed at the waste recycle center every day. Our project aims to utilize deep learning and computer vision techniques to efficiently and accurately detect different waste materials.
+Our task is generating music through our model: after training based on given training midi data, the network can generate a certain length of midi data, which is shown below. The main objective is to improve the generator's capacity to create intricate and realistic musical sequences that, in the discriminator's opinion, are indistinguishable from actual compositions. This method aims to overcome the limitations of simpler RNNs and exploit the capabilities of LSTM units in handling sequence data effectively, providing a robust framework for learning and generating high-quality musical content.
+![structure](structure.png)
+
