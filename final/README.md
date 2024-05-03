@@ -43,5 +43,6 @@ After training, the loss diagram is
 ![loss](Dloss_Gloss.png)
 
 Applying the evaluation for both our results and the results of other pure RNNs methods, we get the followings
-![res](comparison.png){:height="50%" width="50%"}
-<img src="comparison.png" width="200" height="200">
+![res](comparison.png)
+
+！<img src="comparison.png" width="800" height="200">
