@@ -1,9 +1,5 @@
 # Music Generation with Generative Adversarial Networks 
 
-
-
-Two demos, "piano.wav" and "mixed.wav", are offered. The first one is an audio only includes piano while the second one is a mixed version, which has the same melody but consists of different kinds of instruments. "mixer.ipynb" is the file to produce mixed audio.
-
 ## Index
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
@@ -45,4 +41,4 @@ After training, the loss diagram is
 Applying the evaluation for both our results and the results of other pure RNNs methods, we get the followings
 ![res](comparison.png)
 
-！<img src="comparison.png" width="800" height="200">
+Two demos, "piano.wav" and "mixed.wav", are offered. The first one is an audio only includes piano while the second one is a mixed version, which has the same melody but consists of different kinds of instruments. "mixer.ipynb" is the file to produce mixed audio.
