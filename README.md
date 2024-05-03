@@ -2,10 +2,10 @@
 
 24 Spring BU EC523A1 Deep Learning Project
 
-Dataset Source: https://salu133445.github.io/lakh-pianoroll-dataset/dataset
+Dataset Source: https://github.com/bytedance/GiantMIDI-Piano
+
+
 
 # Acknowledgement
-
-Thanks Music and AI Lab for their dataset.
 
 Thanks all selfless programmers sharing their code.
