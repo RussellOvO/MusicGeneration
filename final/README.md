@@ -14,7 +14,7 @@ Our task is generating music through our model: after training based on given tr
 The dataset we use is GiantMIDI-Piano, which can be downloaded from https://github.com/bytedance/GiantMIDI-Piano
 
 ## Training Instructions
-It is strongly suggested that using "model_tf.ipynb" on google colab to run the project. Codes are divided into blocks according to the function and comments are written in each part to help understand. "model_local.py" is a simplified version which we use to debug and test when the "model.ipynb" is running on the colab.
+It is strongly suggested that using "model_tf.ipynb" on google colab to run the project. Codes are divided into blocks according to the function and comments are written in each part to help understand. "model_local.py" is a simplified version which we use to debug and test when the "model_tf.ipynb" is running on the colab. "model_torch.ipynb" is a version using pytorch. But it is strange to find that it performs a little worse than the version of tensorflow. 
 
 If the user choose "model_tf.ipynb", here are instructions.
 
